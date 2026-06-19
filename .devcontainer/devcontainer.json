@@ -1,0 +1,5 @@
+{
+  "name": "Object Detection Recognition Framework",
+  "image": "mcr.microsoft.com/devcontainers/python:3.7",
+  "postCreateCommand": "pip install -r requirements.txt"
+}
